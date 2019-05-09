@@ -244,5 +244,8 @@
   <ItemGroup>
     <Resource Include="imgs\map_Extinction.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imgs\map_CrystalIsles.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
